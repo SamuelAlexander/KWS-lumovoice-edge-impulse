@@ -3,7 +3,8 @@
 Lumo Voice is a keyword spotting (KWS) project utilizing the Arduino Nicla Voice platform, designed to control LED lighting. This repository includes:
 
 - **Arduino Code**: Arduino code for the Nicla Voice.
-- **KiCAD PCB Files**: Schematics and manufacturing files for the custom LED control PCB.
+- **KiCAD PCB Files**: Schematics and PCB design for the custom LED control PCB.
+- **Manufacturing**: Gerber, drill, and SMD Bill of Materials
 
 ## Getting Started
 
